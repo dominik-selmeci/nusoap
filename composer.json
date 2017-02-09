@@ -1,0 +1,23 @@
+{
+    "name": "dominik-selmeci/nusoap",
+    "description": "NuSOAP PHP 7.1+ library re-packaged for Packagist/Composer",
+    "keywords": ["soap","nusoap"],
+    "license": "LGPLv2",
+    "authors": [
+        {
+            "name": "Dominik Šelmeci",
+            "homepage": "https://www.linkedin.com/in/dominikselmeci"
+        },
+        {
+            "name": "Dietrich Ayala",
+            "homepage": "http://sourceforge.net/u/dietricha/profile/"
+        },
+        {
+            "name": "Scott Nichol",
+            "homepage": "http://sourceforge.net/u/snichol/profile/"
+        }
+    ],
+    "autoload": {
+    	"classmap": ["lib/"]
+    }
+}
